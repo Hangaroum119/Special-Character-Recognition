@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\user\Desktop\test_d.jar</jar>
-  <outfile>C:\Users\user\Desktop\SCR.exe</outfile>
+  <jar>C:\Users\user\Desktop\SCR(test)\SCR.jar</jar>
+  <outfile>C:\Users\user\Desktop\SCR(test)\SCR.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>

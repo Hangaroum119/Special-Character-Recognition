@@ -53,8 +53,6 @@
 
 - v1.0 release 다운로드 후, SCR.exe 실행
 
-![Untitled](https://user-images.githubusercontent.com/69345896/90305122-0ed12800-defa-11ea-8ab3-400b39d644c1.png)
-
 
 ## 🧪기능
 
@@ -75,5 +73,3 @@
 ### 3) 실제 실행 모습
 
 - 실행 영상([https://www.youtube.com/watch?v=ggJGCJegkf8](https://www.youtube.com/watch?v=ggJGCJegkf8))
-
-![Untitled (2)](https://user-images.githubusercontent.com/69345896/90305126-1264af00-defa-11ea-9d8b-a6be053fa4dc.png)
